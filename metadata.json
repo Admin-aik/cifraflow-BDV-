@@ -1,0 +1,6 @@
+{
+  "name": "CifraFlow Financiero — Juego Educativo BDV",
+  "description": "Plataforma interactiva de simulación y juego educativo de Banco de Venezuela (BDV) con adivinanzas, trivias y acertijos de Fintech, Comprensión Lectora, Bolsa BVC y Ciberseguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
